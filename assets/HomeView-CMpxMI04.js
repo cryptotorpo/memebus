@@ -2270,7 +2270,7 @@ function b0() {
     "length",
     "5780eMqrHn",
     "div",
-    "https://t.me/memebusoneth",
+    "https://t.me/memebus_erc20",
     "1759446TneSKX",
     "mb-3 text-lg font-extrabold text-primary sm:mb-4",
     "counter",
