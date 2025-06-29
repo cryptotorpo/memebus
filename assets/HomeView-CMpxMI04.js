@@ -3554,7 +3554,7 @@ const t2 = () => {
             className: x(298),
             children: [
               s.jsx(_, {
-                to: "https://dexscreener.com/eth/0xc5bc1c482421d251d5924924bb014858c3b76757",
+                to: "https://dexscreener.com/ethereum/0x1d555b3b9d5cb64910a6f157d491e08ea6e182b9",
                 target: x(338),
                 children: s.jsxs("div", {
                   className:
@@ -3600,7 +3600,7 @@ const t2 = () => {
                 }),
               }),
               s.jsx(_, {
-                to: "https://www.dextools.io/app/en/eth/pair-explorer/0xc5bc1c482421d251d5924924bb014858c3b76757",
+                to: "https://www.dextools.io/app/en/ether/pair-explorer/0x1d555b3b9d5cb64910a6f157d491e08ea6e182b9?t=1751196030157",
                 target: x(338),
                 children: s.jsxs("div", {
                   className: x(328),
