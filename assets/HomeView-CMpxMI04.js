@@ -3581,7 +3581,7 @@ const t2 = () => {
                 }),
               }),
               s.jsx(_, {
-                to: "https://birdeye.so/token/0xc5bc1c482421d251d5924924bb014858c3b76757?chain=eth",
+                to: "https://birdeye.so/token/0xC5bC1c482421D251d5924924bB014858c3B76757?chain=ethereum",
                 target: "_blank",
                 children: s.jsxs(x(307), {
                   className:
