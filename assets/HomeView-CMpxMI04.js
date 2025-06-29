@@ -1397,7 +1397,7 @@ function p0() {
     "group-hover:text-black dark:group-hover:text-white",
     "exception",
     "path",
-    "0xcomingsoon",
+    "0xc5bc1c482421d251d5924924bb014858c3b76757",
     "init",
     "Mint & Freeze Revoked",
     "table",
@@ -1715,7 +1715,7 @@ function h0() {
     "string",
     "while (true) {}",
     "gger",
-    "https://app.uniswap.org/swap?inputCurrency=0xcomingsoon",
+    "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
     "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn",
     "toString",
     "The easiest way to get ETH is to use a centralized exchange such as Coinbase or Binance and purchase it directly.",
@@ -2933,7 +2933,7 @@ function _0() {
     "Following this, the original developer sold off their supply, leading to a downturn.",
     "mb-2 cursor-pointer text-primary hover:text-secondary dark:hover:text-white break-all",
     "The current administration of MEMEBUS includes lead admins b3rt, P_Loadingg, Drake Lau, Civ, and Trader Joe.",
-    "0xcomingsoon",
+    "0xc5bc1c482421d251d5924924bb014858c3b76757",
     "Is it safe to buy MEMEBUS?",
     "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)",
     "gger",
@@ -2948,7 +2948,7 @@ function _0() {
     "call",
     "span",
     "debu",
-    "0xcomingsoon",
+    "0xc5bc1c482421d251d5924924bb014858c3b76757",
     "127ETclMu",
     "31344FWFaQg",
     "FAQs",
@@ -3515,7 +3515,7 @@ function y0() {
     "DexScreener",
     "0 0 252 300",
     "16dUiFKK",
-    "https://etherscan.io/token/0xcomingsoon",
+    "https://etherscan.io/token/0xc5bc1c482421d251d5924924bb014858c3b76757",
     "action",
     "gger",
     "path",
@@ -3554,7 +3554,7 @@ const t2 = () => {
             className: x(298),
             children: [
               s.jsx(_, {
-                to: "https://dexscreener.com/eth/0xcomingsoon",
+                to: "https://dexscreener.com/eth/0xc5bc1c482421d251d5924924bb014858c3b76757",
                 target: x(338),
                 children: s.jsxs("div", {
                   className:
@@ -3581,7 +3581,7 @@ const t2 = () => {
                 }),
               }),
               s.jsx(_, {
-                to: "https://birdeye.so/token/0xcomingsoon?chain=eth",
+                to: "https://birdeye.so/token/0xc5bc1c482421d251d5924924bb014858c3b76757?chain=eth",
                 target: "_blank",
                 children: s.jsxs(x(307), {
                   className:
@@ -3600,7 +3600,7 @@ const t2 = () => {
                 }),
               }),
               s.jsx(_, {
-                to: "https://www.dextools.io/app/en/eth/pair-explorer/0xcomingsoon",
+                to: "https://www.dextools.io/app/en/eth/pair-explorer/0xc5bc1c482421d251d5924924bb014858c3b76757",
                 target: x(338),
                 children: s.jsxs("div", {
                   className: x(328),
@@ -3889,7 +3889,7 @@ const a2 = () => {
             s.jsx("div", {
               className: "pt-6 text-center lg:pt-12",
               children: s.jsx(_, {
-                to: "https://app.uniswap.org/swap?inputCurrency=0xcomingsoon",
+                to: "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
                 className: x(264),
                 target: x(269),
                 children: x(288),
@@ -4280,7 +4280,7 @@ function N0() {
     "length",
     " and picking up all the",
     "2182374UWporF",
-    "https://app.uniswap.org/swap?inputCurrency=0xcomingsoon",
+    "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
     "call",
     "MEMES",
     "4356HDsNbW",
