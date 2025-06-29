@@ -1715,7 +1715,7 @@ function h0() {
     "string",
     "while (true) {}",
     "gger",
-    "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
+    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
     "https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn",
     "toString",
     "The easiest way to get ETH is to use a centralized exchange such as Coinbase or Binance and purchase it directly.",
@@ -3889,7 +3889,7 @@ const a2 = () => {
             s.jsx("div", {
               className: "pt-6 text-center lg:pt-12",
               children: s.jsx(_, {
-                to: "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
+                to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
                 className: x(264),
                 target: x(269),
                 children: x(288),
@@ -4280,7 +4280,7 @@ function N0() {
     "length",
     " and picking up all the",
     "2182374UWporF",
-    "https://app.uniswap.org/swap?inputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
+    "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc5bc1c482421d251d5924924bb014858c3b76757",
     "call",
     "MEMES",
     "4356HDsNbW",
